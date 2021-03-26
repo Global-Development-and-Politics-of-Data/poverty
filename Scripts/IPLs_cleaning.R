@@ -57,3 +57,7 @@ all_ipls_global<-
 
 all_ipls_global<-
   all_ipls_global[, c(5,1,3,2,4,6)]
+
+#export all_ipls_global to Poverty repository 
+
+write.csv(all_ipls_global,"C:\\Users\\thoma\\OneDrive\\Desktop\\poverty_viz\\Poverty\\all_ipls_global.csv", row.names = FALSE)
