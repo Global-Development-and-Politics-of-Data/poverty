@@ -1,0 +1,121 @@
+"iso2c","country","year","SI.POV.DDAY","SI.POV.LMIC","SI.POV.UMIC","country_code"
+"XD","High income",2019,0.6,0.8,1.5,NA
+"XD","High income",2018,0.6,0.9,1.6,NA
+"XD","High income",2017,0.7,1,1.6,NA
+"XD","High income",2016,0.6,0.9,1.7,NA
+"XD","High income",2015,0.8,1.1,2,NA
+"XD","High income",2014,0.8,1.2,2.1,NA
+"XD","High income",2013,0.6,0.9,2,NA
+"XD","High income",2012,0.5,0.9,2,NA
+"XD","High income",2011,0.5,0.9,2,NA
+"XD","High income",2010,0.5,0.8,2,NA
+"XD","High income",2009,0.5,0.7,1.9,NA
+"XD","High income",2008,0.5,0.9,2,NA
+"XD","High income",2007,0.5,0.9,2.3,NA
+"XD","High income",2006,0.6,1,2.6,NA
+"XD","High income",2005,0.6,1.1,2.9,NA
+"XD","High income",2004,0.6,1.2,3,NA
+"XD","High income",2003,0.7,1.3,3.3,NA
+"XD","High income",2002,0.6,1.3,3.5,NA
+"XD","High income",2001,0.6,1.4,3.6,NA
+"XD","High income",2000,0.7,1.5,3.7,NA
+"XD","High income",1999,0.7,1.4,3.8,NA
+"XD","High income",1998,0.6,1.3,3.3,NA
+"XD","High income",1997,0.7,1.3,3.7,NA
+"XD","High income",1996,0.7,1.9,5.1,NA
+"XD","High income",1995,0.7,1.5,3.8,NA
+"XD","High income",1994,0.8,2.4,5.8,NA
+"XD","High income",1993,0.7,1.8,4.6,NA
+"XD","High income",1992,0.6,1.2,3.1,NA
+"XD","High income",1991,0.6,1.1,2.8,NA
+"XD","High income",1990,0.6,1.2,2.8,NA
+"XM","Low income",2019,NA,NA,NA,NA
+"XM","Low income",2018,NA,NA,NA,NA
+"XM","Low income",2017,45.6,71.9,89.9,NA
+"XM","Low income",2016,45.9,72.5,90,NA
+"XM","Low income",2015,45.8,72.6,90,NA
+"XM","Low income",2014,44.7,71.6,89.5,NA
+"XM","Low income",2013,45.2,71.5,89.1,NA
+"XM","Low income",2012,46,71.7,88.9,NA
+"XM","Low income",2011,47.5,72.5,88.7,NA
+"XM","Low income",2010,48.5,72.5,88.3,NA
+"XM","Low income",2009,49.9,73.2,88.5,NA
+"XM","Low income",2008,49.8,73.3,88.7,NA
+"XM","Low income",2007,51.5,74.5,89.4,NA
+"XM","Low income",2006,52.9,75.5,90.1,NA
+"XM","Low income",2005,53.9,76.3,90.6,NA
+"XM","Low income",2004,55.8,77.8,91.1,NA
+"XM","Low income",2003,59.5,79.8,91.6,NA
+"XM","Low income",2002,59,79.7,91.6,NA
+"XM","Low income",2001,59.1,79.8,91.7,NA
+"XM","Low income",2000,60.8,80.8,92,NA
+"XM","Low income",1999,61.9,81.3,92.3,NA
+"XM","Low income",1998,62.5,81.1,92,NA
+"XM","Low income",1997,62.6,81.1,92.3,NA
+"XM","Low income",1996,64,81.6,92.3,NA
+"XM","Low income",1995,65.3,82.2,92.6,NA
+"XM","Low income",1994,NA,NA,NA,NA
+"XM","Low income",1993,NA,NA,NA,NA
+"XM","Low income",1992,NA,NA,NA,NA
+"XM","Low income",1991,NA,NA,NA,NA
+"XM","Low income",1990,NA,NA,NA,NA
+"XN","Lower middle income",2019,NA,NA,NA,NA
+"XN","Lower middle income",2018,NA,NA,NA,NA
+"XN","Lower middle income",2017,NA,NA,NA,NA
+"XN","Lower middle income",2016,NA,NA,NA,NA
+"XN","Lower middle income",2015,NA,NA,NA,NA
+"XN","Lower middle income",2014,16.9,47.8,76.3,NA
+"XN","Lower middle income",2013,18.5,50,77.7,NA
+"XN","Lower middle income",2012,19.9,51.9,78.7,NA
+"XN","Lower middle income",2011,21.5,54,79.9,NA
+"XN","Lower middle income",2010,25.2,57.7,81.7,NA
+"XN","Lower middle income",2009,28.1,60.8,83.6,NA
+"XN","Lower middle income",2008,29.1,62.1,84.2,NA
+"XN","Lower middle income",2007,30.2,63.2,84.8,NA
+"XN","Lower middle income",2006,31.9,64.7,85.5,NA
+"XN","Lower middle income",2005,33.2,65.8,86.1,NA
+"XN","Lower middle income",2004,35.1,67.4,87,NA
+"XN","Lower middle income",2003,36.7,68.7,87.7,NA
+"XN","Lower middle income",2002,37.7,69.6,88.2,NA
+"XN","Lower middle income",2001,NA,NA,NA,NA
+"XN","Lower middle income",2000,NA,NA,NA,NA
+"XN","Lower middle income",1999,NA,NA,NA,NA
+"XN","Lower middle income",1998,NA,NA,NA,NA
+"XN","Lower middle income",1997,NA,NA,NA,NA
+"XN","Lower middle income",1996,39.9,71.4,89.3,NA
+"XN","Lower middle income",1995,41.5,72.6,89.6,NA
+"XN","Lower middle income",1994,42.6,73.1,89.9,NA
+"XN","Lower middle income",1993,43.3,73.3,89.9,NA
+"XN","Lower middle income",1992,43.5,73.3,89.6,NA
+"XN","Lower middle income",1991,44.9,73.8,89.4,NA
+"XN","Lower middle income",1990,44.7,73.6,89.1,NA
+"XT","Upper middle income",2019,1.5,5.9,19.7,NA
+"XT","Upper middle income",2018,1.6,6.3,20.8,NA
+"XT","Upper middle income",2017,1.7,7.1,22.8,NA
+"XT","Upper middle income",2016,1.9,8.4,25.4,NA
+"XT","Upper middle income",2015,2,9.4,27.6,NA
+"XT","Upper middle income",2014,2.4,11.1,30.2,NA
+"XT","Upper middle income",2013,2.8,12.8,32.8,NA
+"XT","Upper middle income",2012,5.4,17.3,37.5,NA
+"XT","Upper middle income",2011,6.3,19.3,40.5,NA
+"XT","Upper middle income",2010,8.3,22.5,43.7,NA
+"XT","Upper middle income",2009,9.7,25,46.9,NA
+"XT","Upper middle income",2008,10.9,26.9,48.8,NA
+"XT","Upper middle income",2007,11.6,28.5,51.1,NA
+"XT","Upper middle income",2006,13,31.5,54.6,NA
+"XT","Upper middle income",2005,13.6,33.4,57.3,NA
+"XT","Upper middle income",2004,16.5,37.4,60.9,NA
+"XT","Upper middle income",2003,19.2,40.8,63.8,NA
+"XT","Upper middle income",2002,21.1,42.7,65.3,NA
+"XT","Upper middle income",2001,23.9,46.2,68,NA
+"XT","Upper middle income",2000,25.4,48.3,69.9,NA
+"XT","Upper middle income",1999,28,51.2,72.4,NA
+"XT","Upper middle income",1998,30.4,52.7,72.6,NA
+"XT","Upper middle income",1997,29.5,53.1,73,NA
+"XT","Upper middle income",1996,29.7,54.1,73.7,NA
+"XT","Upper middle income",1995,32.3,55.9,74.5,NA
+"XT","Upper middle income",1994,35.8,58.1,75.6,NA
+"XT","Upper middle income",1993,38.3,60.3,76.4,NA
+"XT","Upper middle income",1992,40.3,61.7,76.6,NA
+"XT","Upper middle income",1991,42,62.7,76.4,NA
+"XT","Upper middle income",1990,43,63,76.2,NA
