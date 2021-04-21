@@ -1,0 +1,631 @@
+"country","year","pov_line","headcount","country_code"
+"East Asia & Pacific",2019,"dday",1,NA
+"East Asia & Pacific",2019,"lmic",6.3,NA
+"East Asia & Pacific",2019,"umic",22.7,NA
+"East Asia & Pacific",2018,"dday",1.2,NA
+"East Asia & Pacific",2018,"lmic",7.1,NA
+"East Asia & Pacific",2018,"umic",24.7,NA
+"East Asia & Pacific",2017,"dday",1.4,NA
+"East Asia & Pacific",2017,"lmic",8.4,NA
+"East Asia & Pacific",2017,"umic",27.6,NA
+"East Asia & Pacific",2016,"dday",1.7,NA
+"East Asia & Pacific",2016,"lmic",10.3,NA
+"East Asia & Pacific",2016,"umic",31.2,NA
+"East Asia & Pacific",2015,"dday",2.1,NA
+"East Asia & Pacific",2015,"lmic",11.9,NA
+"East Asia & Pacific",2015,"umic",34.3,NA
+"East Asia & Pacific",2014,"dday",2.7,NA
+"East Asia & Pacific",2014,"lmic",14.5,NA
+"East Asia & Pacific",2014,"umic",38,NA
+"East Asia & Pacific",2013,"dday",3.3,NA
+"East Asia & Pacific",2013,"lmic",16.9,NA
+"East Asia & Pacific",2013,"umic",42,NA
+"East Asia & Pacific",2012,"dday",6.9,NA
+"East Asia & Pacific",2012,"lmic",23.1,NA
+"East Asia & Pacific",2012,"umic",48.2,NA
+"East Asia & Pacific",2011,"dday",8.2,NA
+"East Asia & Pacific",2011,"lmic",25.9,NA
+"East Asia & Pacific",2011,"umic",51.9,NA
+"East Asia & Pacific",2010,"dday",10.8,NA
+"East Asia & Pacific",2010,"lmic",30,NA
+"East Asia & Pacific",2010,"umic",55.6,NA
+"East Asia & Pacific",2009,"dday",12.9,NA
+"East Asia & Pacific",2009,"lmic",34.2,NA
+"East Asia & Pacific",2009,"umic",60.5,NA
+"East Asia & Pacific",2008,"dday",14.8,NA
+"East Asia & Pacific",2008,"lmic",37,NA
+"East Asia & Pacific",2008,"umic",63.4,NA
+"East Asia & Pacific",2007,"dday",15.7,NA
+"East Asia & Pacific",2007,"lmic",39.1,NA
+"East Asia & Pacific",2007,"umic",65.6,NA
+"East Asia & Pacific",2006,"dday",17.9,NA
+"East Asia & Pacific",2006,"lmic",42.9,NA
+"East Asia & Pacific",2006,"umic",69.3,NA
+"East Asia & Pacific",2005,"dday",18.4,NA
+"East Asia & Pacific",2005,"lmic",44.6,NA
+"East Asia & Pacific",2005,"umic",71.4,NA
+"East Asia & Pacific",2004,"dday",22.5,NA
+"East Asia & Pacific",2004,"lmic",49.8,NA
+"East Asia & Pacific",2004,"umic",75.1,NA
+"East Asia & Pacific",2003,"dday",25.9,NA
+"East Asia & Pacific",2003,"lmic",53.5,NA
+"East Asia & Pacific",2003,"umic",77.6,NA
+"East Asia & Pacific",2002,"dday",29.1,NA
+"East Asia & Pacific",2002,"lmic",56.6,NA
+"East Asia & Pacific",2002,"umic",79.8,NA
+"East Asia & Pacific",2001,"dday",32.8,NA
+"East Asia & Pacific",2001,"lmic",61.1,NA
+"East Asia & Pacific",2001,"umic",82.8,NA
+"East Asia & Pacific",2000,"dday",34.8,NA
+"East Asia & Pacific",2000,"lmic",63.6,NA
+"East Asia & Pacific",2000,"umic",84.7,NA
+"East Asia & Pacific",1999,"dday",37.9,NA
+"East Asia & Pacific",1999,"lmic",66.6,NA
+"East Asia & Pacific",1999,"umic",86.8,NA
+"East Asia & Pacific",1998,"dday",41.5,NA
+"East Asia & Pacific",1998,"lmic",69.2,NA
+"East Asia & Pacific",1998,"umic",88.1,NA
+"East Asia & Pacific",1997,"dday",40.2,NA
+"East Asia & Pacific",1997,"lmic",69.2,NA
+"East Asia & Pacific",1997,"umic",88.5,NA
+"East Asia & Pacific",1996,"dday",40.2,NA
+"East Asia & Pacific",1996,"lmic",70.1,NA
+"East Asia & Pacific",1996,"umic",89.1,NA
+"East Asia & Pacific",1995,"dday",44.6,NA
+"East Asia & Pacific",1995,"lmic",73.2,NA
+"East Asia & Pacific",1995,"umic",90.6,NA
+"East Asia & Pacific",1994,"dday",49.7,NA
+"East Asia & Pacific",1994,"lmic",76.3,NA
+"East Asia & Pacific",1994,"umic",92,NA
+"East Asia & Pacific",1993,"dday",53.3,NA
+"East Asia & Pacific",1993,"lmic",79.4,NA
+"East Asia & Pacific",1993,"umic",93.1,NA
+"East Asia & Pacific",1992,"dday",56.2,NA
+"East Asia & Pacific",1992,"lmic",81.6,NA
+"East Asia & Pacific",1992,"umic",93.9,NA
+"East Asia & Pacific",1991,"dday",58.9,NA
+"East Asia & Pacific",1991,"lmic",83.7,NA
+"East Asia & Pacific",1991,"umic",94.7,NA
+"East Asia & Pacific",1990,"dday",60.9,NA
+"East Asia & Pacific",1990,"lmic",85,NA
+"East Asia & Pacific",1990,"umic",95.1,NA
+"Europe & Central Asia",2019,"dday",1,NA
+"Europe & Central Asia",2019,"lmic",4,NA
+"Europe & Central Asia",2019,"umic",11.6,NA
+"Europe & Central Asia",2018,"dday",1.1,NA
+"Europe & Central Asia",2018,"lmic",4.2,NA
+"Europe & Central Asia",2018,"umic",11.9,NA
+"Europe & Central Asia",2017,"dday",1.3,NA
+"Europe & Central Asia",2017,"lmic",4.6,NA
+"Europe & Central Asia",2017,"umic",12.6,NA
+"Europe & Central Asia",2016,"dday",1.3,NA
+"Europe & Central Asia",2016,"lmic",4.7,NA
+"Europe & Central Asia",2016,"umic",13.3,NA
+"Europe & Central Asia",2015,"dday",1.5,NA
+"Europe & Central Asia",2015,"lmic",5.3,NA
+"Europe & Central Asia",2015,"umic",13.9,NA
+"Europe & Central Asia",2014,"dday",1.8,NA
+"Europe & Central Asia",2014,"lmic",5.7,NA
+"Europe & Central Asia",2014,"umic",13.8,NA
+"Europe & Central Asia",2013,"dday",1.6,NA
+"Europe & Central Asia",2013,"lmic",5.6,NA
+"Europe & Central Asia",2013,"umic",13.7,NA
+"Europe & Central Asia",2012,"dday",1.9,NA
+"Europe & Central Asia",2012,"lmic",6.1,NA
+"Europe & Central Asia",2012,"umic",14.7,NA
+"Europe & Central Asia",2011,"dday",2,NA
+"Europe & Central Asia",2011,"lmic",6.4,NA
+"Europe & Central Asia",2011,"umic",15,NA
+"Europe & Central Asia",2010,"dday",2.4,NA
+"Europe & Central Asia",2010,"lmic",6.8,NA
+"Europe & Central Asia",2010,"umic",16.1,NA
+"Europe & Central Asia",2009,"dday",2.5,NA
+"Europe & Central Asia",2009,"lmic",6.9,NA
+"Europe & Central Asia",2009,"umic",16.7,NA
+"Europe & Central Asia",2008,"dday",2.7,NA
+"Europe & Central Asia",2008,"lmic",7.3,NA
+"Europe & Central Asia",2008,"umic",16.8,NA
+"Europe & Central Asia",2007,"dday",3.3,NA
+"Europe & Central Asia",2007,"lmic",8.5,NA
+"Europe & Central Asia",2007,"umic",20.1,NA
+"Europe & Central Asia",2006,"dday",4,NA
+"Europe & Central Asia",2006,"lmic",9.8,NA
+"Europe & Central Asia",2006,"umic",23.2,NA
+"Europe & Central Asia",2005,"dday",4.7,NA
+"Europe & Central Asia",2005,"lmic",11.5,NA
+"Europe & Central Asia",2005,"umic",26.5,NA
+"Europe & Central Asia",2004,"dday",4.8,NA
+"Europe & Central Asia",2004,"lmic",12.2,NA
+"Europe & Central Asia",2004,"umic",29.3,NA
+"Europe & Central Asia",2003,"dday",5.8,NA
+"Europe & Central Asia",2003,"lmic",14.3,NA
+"Europe & Central Asia",2003,"umic",33.7,NA
+"Europe & Central Asia",2002,"dday",5.7,NA
+"Europe & Central Asia",2002,"lmic",15,NA
+"Europe & Central Asia",2002,"umic",35.3,NA
+"Europe & Central Asia",2001,"dday",6.6,NA
+"Europe & Central Asia",2001,"lmic",16.9,NA
+"Europe & Central Asia",2001,"umic",38.7,NA
+"Europe & Central Asia",2000,"dday",7.3,NA
+"Europe & Central Asia",2000,"lmic",18.8,NA
+"Europe & Central Asia",2000,"umic",41.4,NA
+"Europe & Central Asia",1999,"dday",7.8,NA
+"Europe & Central Asia",1999,"lmic",21.5,NA
+"Europe & Central Asia",1999,"umic",45.7,NA
+"Europe & Central Asia",1998,"dday",5.8,NA
+"Europe & Central Asia",1998,"lmic",16.1,NA
+"Europe & Central Asia",1998,"umic",37.6,NA
+"Europe & Central Asia",1997,"dday",5.9,NA
+"Europe & Central Asia",1997,"lmic",15.7,NA
+"Europe & Central Asia",1997,"umic",37,NA
+"Europe & Central Asia",1996,"dday",7,NA
+"Europe & Central Asia",1996,"lmic",18.1,NA
+"Europe & Central Asia",1996,"umic",39.5,NA
+"Europe & Central Asia",1995,"dday",6.8,NA
+"Europe & Central Asia",1995,"lmic",17.5,NA
+"Europe & Central Asia",1995,"umic",36.7,NA
+"Europe & Central Asia",1994,"dday",7.4,NA
+"Europe & Central Asia",1994,"lmic",20.1,NA
+"Europe & Central Asia",1994,"umic",42.2,NA
+"Europe & Central Asia",1993,"dday",5.5,NA
+"Europe & Central Asia",1993,"lmic",15.8,NA
+"Europe & Central Asia",1993,"umic",37.1,NA
+"Europe & Central Asia",1992,"dday",4.4,NA
+"Europe & Central Asia",1992,"lmic",13.4,NA
+"Europe & Central Asia",1992,"umic",31.4,NA
+"Europe & Central Asia",1991,"dday",3,NA
+"Europe & Central Asia",1991,"lmic",10.6,NA
+"Europe & Central Asia",1991,"umic",26.4,NA
+"Europe & Central Asia",1990,"dday",2.5,NA
+"Europe & Central Asia",1990,"lmic",9.3,NA
+"Europe & Central Asia",1990,"umic",23.8,NA
+"Latin America & Caribbean",2019,"dday",3.7,NA
+"Latin America & Caribbean",2019,"lmic",9.2,NA
+"Latin America & Caribbean",2019,"umic",22.5,NA
+"Latin America & Caribbean",2018,"dday",3.7,NA
+"Latin America & Caribbean",2018,"lmic",9.2,NA
+"Latin America & Caribbean",2018,"umic",22.5,NA
+"Latin America & Caribbean",2017,"dday",3.8,NA
+"Latin America & Caribbean",2017,"lmic",9.3,NA
+"Latin America & Caribbean",2017,"umic",23,NA
+"Latin America & Caribbean",2016,"dday",3.8,NA
+"Latin America & Caribbean",2016,"lmic",9.6,NA
+"Latin America & Caribbean",2016,"umic",23.6,NA
+"Latin America & Caribbean",2015,"dday",3.7,NA
+"Latin America & Caribbean",2015,"lmic",9.8,NA
+"Latin America & Caribbean",2015,"umic",24.2,NA
+"Latin America & Caribbean",2014,"dday",3.9,NA
+"Latin America & Caribbean",2014,"lmic",10.3,NA
+"Latin America & Caribbean",2014,"umic",25,NA
+"Latin America & Caribbean",2013,"dday",4.2,NA
+"Latin America & Caribbean",2013,"lmic",10.8,NA
+"Latin America & Caribbean",2013,"umic",25.8,NA
+"Latin America & Caribbean",2012,"dday",4.6,NA
+"Latin America & Caribbean",2012,"lmic",11.7,NA
+"Latin America & Caribbean",2012,"umic",26.7,NA
+"Latin America & Caribbean",2011,"dday",5.6,NA
+"Latin America & Caribbean",2011,"lmic",12.6,NA
+"Latin America & Caribbean",2011,"umic",28.4,NA
+"Latin America & Caribbean",2010,"dday",6,NA
+"Latin America & Caribbean",2010,"lmic",13.6,NA
+"Latin America & Caribbean",2010,"umic",30.1,NA
+"Latin America & Caribbean",2009,"dday",6.6,NA
+"Latin America & Caribbean",2009,"lmic",14.9,NA
+"Latin America & Caribbean",2009,"umic",31.9,NA
+"Latin America & Caribbean",2008,"dday",7,NA
+"Latin America & Caribbean",2008,"lmic",15.7,NA
+"Latin America & Caribbean",2008,"umic",32.3,NA
+"Latin America & Caribbean",2007,"dday",7.5,NA
+"Latin America & Caribbean",2007,"lmic",16.6,NA
+"Latin America & Caribbean",2007,"umic",34,NA
+"Latin America & Caribbean",2006,"dday",8,NA
+"Latin America & Caribbean",2006,"lmic",17.8,NA
+"Latin America & Caribbean",2006,"umic",35.9,NA
+"Latin America & Caribbean",2005,"dday",9.8,NA
+"Latin America & Caribbean",2005,"lmic",20.8,NA
+"Latin America & Caribbean",2005,"umic",40,NA
+"Latin America & Caribbean",2004,"dday",10.4,NA
+"Latin America & Caribbean",2004,"lmic",22.3,NA
+"Latin America & Caribbean",2004,"umic",42.5,NA
+"Latin America & Caribbean",2003,"dday",11.4,NA
+"Latin America & Caribbean",2003,"lmic",24.1,NA
+"Latin America & Caribbean",2003,"umic",44.2,NA
+"Latin America & Caribbean",2002,"dday",11.9,NA
+"Latin America & Caribbean",2002,"lmic",24.7,NA
+"Latin America & Caribbean",2002,"umic",44.7,NA
+"Latin America & Caribbean",2001,"dday",12.5,NA
+"Latin America & Caribbean",2001,"lmic",25,NA
+"Latin America & Caribbean",2001,"umic",44.9,NA
+"Latin America & Caribbean",2000,"dday",12.7,NA
+"Latin America & Caribbean",2000,"lmic",25.1,NA
+"Latin America & Caribbean",2000,"umic",45.1,NA
+"Latin America & Caribbean",1999,"dday",13.9,NA
+"Latin America & Caribbean",1999,"lmic",27.2,NA
+"Latin America & Caribbean",1999,"umic",47.3,NA
+"Latin America & Caribbean",1998,"dday",13.7,NA
+"Latin America & Caribbean",1998,"lmic",26.6,NA
+"Latin America & Caribbean",1998,"umic",46.7,NA
+"Latin America & Caribbean",1997,"dday",14.5,NA
+"Latin America & Caribbean",1997,"lmic",27.9,NA
+"Latin America & Caribbean",1997,"umic",47.8,NA
+"Latin America & Caribbean",1996,"dday",15.3,NA
+"Latin America & Caribbean",1996,"lmic",29.4,NA
+"Latin America & Caribbean",1996,"umic",49.3,NA
+"Latin America & Caribbean",1995,"dday",13.6,NA
+"Latin America & Caribbean",1995,"lmic",27.4,NA
+"Latin America & Caribbean",1995,"umic",47.7,NA
+"Latin America & Caribbean",1994,"dday",13.5,NA
+"Latin America & Caribbean",1994,"lmic",26.9,NA
+"Latin America & Caribbean",1994,"umic",47.8,NA
+"Latin America & Caribbean",1993,"dday",14.5,NA
+"Latin America & Caribbean",1993,"lmic",28.6,NA
+"Latin America & Caribbean",1993,"umic",49.4,NA
+"Latin America & Caribbean",1992,"dday",14.6,NA
+"Latin America & Caribbean",1992,"lmic",28.6,NA
+"Latin America & Caribbean",1992,"umic",49.7,NA
+"Latin America & Caribbean",1991,"dday",14.4,NA
+"Latin America & Caribbean",1991,"lmic",28.3,NA
+"Latin America & Caribbean",1991,"umic",49.1,NA
+"Latin America & Caribbean",1990,"dday",15.2,NA
+"Latin America & Caribbean",1990,"lmic",29.2,NA
+"Latin America & Caribbean",1990,"umic",49.3,NA
+"Middle East & North Africa",2019,"dday",NA,NA
+"Middle East & North Africa",2019,"lmic",NA,NA
+"Middle East & North Africa",2019,"umic",NA,NA
+"Middle East & North Africa",2018,"dday",7,NA
+"Middle East & North Africa",2018,"lmic",19.9,NA
+"Middle East & North Africa",2018,"umic",44.4,NA
+"Middle East & North Africa",2017,"dday",6.3,NA
+"Middle East & North Africa",2017,"lmic",18.3,NA
+"Middle East & North Africa",2017,"umic",43.1,NA
+"Middle East & North Africa",2016,"dday",5.2,NA
+"Middle East & North Africa",2016,"lmic",16.5,NA
+"Middle East & North Africa",2016,"umic",41.7,NA
+"Middle East & North Africa",2015,"dday",4.3,NA
+"Middle East & North Africa",2015,"lmic",15.4,NA
+"Middle East & North Africa",2015,"umic",41.8,NA
+"Middle East & North Africa",2014,"dday",2.5,NA
+"Middle East & North Africa",2014,"lmic",13.3,NA
+"Middle East & North Africa",2014,"umic",40.9,NA
+"Middle East & North Africa",2013,"dday",2.1,NA
+"Middle East & North Africa",2013,"lmic",12.6,NA
+"Middle East & North Africa",2013,"umic",40.6,NA
+"Middle East & North Africa",2012,"dday",2.2,NA
+"Middle East & North Africa",2012,"lmic",12.9,NA
+"Middle East & North Africa",2012,"umic",41.1,NA
+"Middle East & North Africa",2011,"dday",2.3,NA
+"Middle East & North Africa",2011,"lmic",13.4,NA
+"Middle East & North Africa",2011,"umic",41.4,NA
+"Middle East & North Africa",2010,"dday",2,NA
+"Middle East & North Africa",2010,"lmic",13.8,NA
+"Middle East & North Africa",2010,"umic",42.5,NA
+"Middle East & North Africa",2009,"dday",2.4,NA
+"Middle East & North Africa",2009,"lmic",15.3,NA
+"Middle East & North Africa",2009,"umic",44.3,NA
+"Middle East & North Africa",2008,"dday",2.8,NA
+"Middle East & North Africa",2008,"lmic",16.7,NA
+"Middle East & North Africa",2008,"umic",45.9,NA
+"Middle East & North Africa",2007,"dday",2.9,NA
+"Middle East & North Africa",2007,"lmic",17.3,NA
+"Middle East & North Africa",2007,"umic",46.7,NA
+"Middle East & North Africa",2006,"dday",2.9,NA
+"Middle East & North Africa",2006,"lmic",18,NA
+"Middle East & North Africa",2006,"umic",48.1,NA
+"Middle East & North Africa",2005,"dday",3.1,NA
+"Middle East & North Africa",2005,"lmic",18.9,NA
+"Middle East & North Africa",2005,"umic",49,NA
+"Middle East & North Africa",2004,"dday",3.4,NA
+"Middle East & North Africa",2004,"lmic",19.9,NA
+"Middle East & North Africa",2004,"umic",50.9,NA
+"Middle East & North Africa",2003,"dday",4.4,NA
+"Middle East & North Africa",2003,"lmic",22.8,NA
+"Middle East & North Africa",2003,"umic",53.3,NA
+"Middle East & North Africa",2002,"dday",3.4,NA
+"Middle East & North Africa",2002,"lmic",20.1,NA
+"Middle East & North Africa",2002,"umic",52.1,NA
+"Middle East & North Africa",2001,"dday",3.3,NA
+"Middle East & North Africa",2001,"lmic",19.8,NA
+"Middle East & North Africa",2001,"umic",52.1,NA
+"Middle East & North Africa",2000,"dday",3.5,NA
+"Middle East & North Africa",2000,"lmic",20.5,NA
+"Middle East & North Africa",2000,"umic",53.3,NA
+"Middle East & North Africa",1999,"dday",3.7,NA
+"Middle East & North Africa",1999,"lmic",21.5,NA
+"Middle East & North Africa",1999,"umic",54,NA
+"Middle East & North Africa",1998,"dday",4.1,NA
+"Middle East & North Africa",1998,"lmic",23.3,NA
+"Middle East & North Africa",1998,"umic",55.8,NA
+"Middle East & North Africa",1997,"dday",5.2,NA
+"Middle East & North Africa",1997,"lmic",26.8,NA
+"Middle East & North Africa",1997,"umic",59.4,NA
+"Middle East & North Africa",1996,"dday",6,NA
+"Middle East & North Africa",1996,"lmic",28.6,NA
+"Middle East & North Africa",1996,"umic",60.4,NA
+"Middle East & North Africa",1995,"dday",6.4,NA
+"Middle East & North Africa",1995,"lmic",29.2,NA
+"Middle East & North Africa",1995,"umic",60.2,NA
+"Middle East & North Africa",1994,"dday",6.3,NA
+"Middle East & North Africa",1994,"lmic",28.4,NA
+"Middle East & North Africa",1994,"umic",59.2,NA
+"Middle East & North Africa",1993,"dday",6.7,NA
+"Middle East & North Africa",1993,"lmic",29,NA
+"Middle East & North Africa",1993,"umic",59.7,NA
+"Middle East & North Africa",1992,"dday",8.1,NA
+"Middle East & North Africa",1992,"lmic",30,NA
+"Middle East & North Africa",1992,"umic",59.7,NA
+"Middle East & North Africa",1991,"dday",10.2,NA
+"Middle East & North Africa",1991,"lmic",31.5,NA
+"Middle East & North Africa",1991,"umic",60.8,NA
+"Middle East & North Africa",1990,"dday",6.5,NA
+"Middle East & North Africa",1990,"lmic",27.1,NA
+"Middle East & North Africa",1990,"umic",59.1,NA
+"South Asia",2019,"dday",NA,NA
+"South Asia",2019,"lmic",NA,NA
+"South Asia",2019,"umic",NA,NA
+"South Asia",2018,"dday",NA,NA
+"South Asia",2018,"lmic",NA,NA
+"South Asia",2018,"umic",NA,NA
+"South Asia",2017,"dday",NA,NA
+"South Asia",2017,"lmic",NA,NA
+"South Asia",2017,"umic",NA,NA
+"South Asia",2016,"dday",NA,NA
+"South Asia",2016,"lmic",NA,NA
+"South Asia",2016,"umic",NA,NA
+"South Asia",2015,"dday",NA,NA
+"South Asia",2015,"lmic",NA,NA
+"South Asia",2015,"umic",NA,NA
+"South Asia",2014,"dday",15.2,NA
+"South Asia",2014,"lmic",52.4,NA
+"South Asia",2014,"umic",83.4,NA
+"South Asia",2013,"dday",17.1,NA
+"South Asia",2013,"lmic",55.1,NA
+"South Asia",2013,"umic",84.7,NA
+"South Asia",2012,"dday",19.2,NA
+"South Asia",2012,"lmic",57.6,NA
+"South Asia",2012,"umic",85.8,NA
+"South Asia",2011,"dday",20.9,NA
+"South Asia",2011,"lmic",60.1,NA
+"South Asia",2011,"umic",87,NA
+"South Asia",2010,"dday",26,NA
+"South Asia",2010,"lmic",64.9,NA
+"South Asia",2010,"umic",88.9,NA
+"South Asia",2009,"dday",29.6,NA
+"South Asia",2009,"lmic",67.9,NA
+"South Asia",2009,"umic",90,NA
+"South Asia",2008,"dday",30.7,NA
+"South Asia",2008,"lmic",69,NA
+"South Asia",2008,"umic",90.2,NA
+"South Asia",2007,"dday",32,NA
+"South Asia",2007,"lmic",70,NA
+"South Asia",2007,"umic",90.6,NA
+"South Asia",2006,"dday",33.9,NA
+"South Asia",2006,"lmic",71.6,NA
+"South Asia",2006,"umic",91.2,NA
+"South Asia",2005,"dday",35.1,NA
+"South Asia",2005,"lmic",72.5,NA
+"South Asia",2005,"umic",91.4,NA
+"South Asia",2004,"dday",37.6,NA
+"South Asia",2004,"lmic",74.4,NA
+"South Asia",2004,"umic",92.2,NA
+"South Asia",2003,"dday",39.1,NA
+"South Asia",2003,"lmic",75.7,NA
+"South Asia",2003,"umic",92.7,NA
+"South Asia",2002,"dday",40,NA
+"South Asia",2002,"lmic",76.4,NA
+"South Asia",2002,"umic",93.1,NA
+"South Asia",2001,"dday",NA,NA
+"South Asia",2001,"lmic",NA,NA
+"South Asia",2001,"umic",NA,NA
+"South Asia",2000,"dday",NA,NA
+"South Asia",2000,"lmic",NA,NA
+"South Asia",2000,"umic",NA,NA
+"South Asia",1999,"dday",NA,NA
+"South Asia",1999,"lmic",NA,NA
+"South Asia",1999,"umic",NA,NA
+"South Asia",1998,"dday",NA,NA
+"South Asia",1998,"lmic",NA,NA
+"South Asia",1998,"umic",NA,NA
+"South Asia",1997,"dday",NA,NA
+"South Asia",1997,"lmic",NA,NA
+"South Asia",1997,"umic",NA,NA
+"South Asia",1996,"dday",41.8,NA
+"South Asia",1996,"lmic",78.2,NA
+"South Asia",1996,"umic",94.2,NA
+"South Asia",1995,"dday",43.6,NA
+"South Asia",1995,"lmic",79.5,NA
+"South Asia",1995,"umic",94.6,NA
+"South Asia",1994,"dday",45.3,NA
+"South Asia",1994,"lmic",80.5,NA
+"South Asia",1994,"umic",95,NA
+"South Asia",1993,"dday",46.4,NA
+"South Asia",1993,"lmic",81.1,NA
+"South Asia",1993,"umic",95.3,NA
+"South Asia",1992,"dday",47,NA
+"South Asia",1992,"lmic",81.6,NA
+"South Asia",1992,"umic",95.4,NA
+"South Asia",1991,"dday",49.2,NA
+"South Asia",1991,"lmic",82.7,NA
+"South Asia",1991,"umic",95.6,NA
+"South Asia",1990,"dday",49.1,NA
+"South Asia",1990,"lmic",82.7,NA
+"South Asia",1990,"umic",95.6,NA
+"Sub-Saharan Africa",2019,"dday",NA,NA
+"Sub-Saharan Africa",2019,"lmic",NA,NA
+"Sub-Saharan Africa",2019,"umic",NA,NA
+"Sub-Saharan Africa",2018,"dday",40.4,NA
+"Sub-Saharan Africa",2018,"lmic",66.7,NA
+"Sub-Saharan Africa",2018,"umic",86.1,NA
+"Sub-Saharan Africa",2017,"dday",41.2,NA
+"Sub-Saharan Africa",2017,"lmic",67.3,NA
+"Sub-Saharan Africa",2017,"umic",86.2,NA
+"Sub-Saharan Africa",2016,"dday",41.9,NA
+"Sub-Saharan Africa",2016,"lmic",68.1,NA
+"Sub-Saharan Africa",2016,"umic",86.4,NA
+"Sub-Saharan Africa",2015,"dday",42,NA
+"Sub-Saharan Africa",2015,"lmic",68.2,NA
+"Sub-Saharan Africa",2015,"umic",86.4,NA
+"Sub-Saharan Africa",2014,"dday",42.3,NA
+"Sub-Saharan Africa",2014,"lmic",68.5,NA
+"Sub-Saharan Africa",2014,"umic",86.5,NA
+"Sub-Saharan Africa",2013,"dday",43.5,NA
+"Sub-Saharan Africa",2013,"lmic",69.3,NA
+"Sub-Saharan Africa",2013,"umic",86.8,NA
+"Sub-Saharan Africa",2012,"dday",43.9,NA
+"Sub-Saharan Africa",2012,"lmic",69.6,NA
+"Sub-Saharan Africa",2012,"umic",86.9,NA
+"Sub-Saharan Africa",2011,"dday",45.5,NA
+"Sub-Saharan Africa",2011,"lmic",70.8,NA
+"Sub-Saharan Africa",2011,"umic",87.4,NA
+"Sub-Saharan Africa",2010,"dday",47.5,NA
+"Sub-Saharan Africa",2010,"lmic",72,NA
+"Sub-Saharan Africa",2010,"umic",88.1,NA
+"Sub-Saharan Africa",2009,"dday",48.9,NA
+"Sub-Saharan Africa",2009,"lmic",73,NA
+"Sub-Saharan Africa",2009,"umic",88.5,NA
+"Sub-Saharan Africa",2008,"dday",48.8,NA
+"Sub-Saharan Africa",2008,"lmic",73.1,NA
+"Sub-Saharan Africa",2008,"umic",88.6,NA
+"Sub-Saharan Africa",2007,"dday",49.9,NA
+"Sub-Saharan Africa",2007,"lmic",73.9,NA
+"Sub-Saharan Africa",2007,"umic",89.1,NA
+"Sub-Saharan Africa",2006,"dday",50.8,NA
+"Sub-Saharan Africa",2006,"lmic",74.7,NA
+"Sub-Saharan Africa",2006,"umic",89.6,NA
+"Sub-Saharan Africa",2005,"dday",51.9,NA
+"Sub-Saharan Africa",2005,"lmic",75.7,NA
+"Sub-Saharan Africa",2005,"umic",90.2,NA
+"Sub-Saharan Africa",2004,"dday",53.3,NA
+"Sub-Saharan Africa",2004,"lmic",76.8,NA
+"Sub-Saharan Africa",2004,"umic",90.6,NA
+"Sub-Saharan Africa",2003,"dday",55.8,NA
+"Sub-Saharan Africa",2003,"lmic",78.2,NA
+"Sub-Saharan Africa",2003,"umic",91,NA
+"Sub-Saharan Africa",2002,"dday",55.9,NA
+"Sub-Saharan Africa",2002,"lmic",78,NA
+"Sub-Saharan Africa",2002,"umic",90.8,NA
+"Sub-Saharan Africa",2001,"dday",57.2,NA
+"Sub-Saharan Africa",2001,"lmic",78.5,NA
+"Sub-Saharan Africa",2001,"umic",90.9,NA
+"Sub-Saharan Africa",2000,"dday",58.4,NA
+"Sub-Saharan Africa",2000,"lmic",79.1,NA
+"Sub-Saharan Africa",2000,"umic",91,NA
+"Sub-Saharan Africa",1999,"dday",58.7,NA
+"Sub-Saharan Africa",1999,"lmic",79.1,NA
+"Sub-Saharan Africa",1999,"umic",90.9,NA
+"Sub-Saharan Africa",1998,"dday",58.9,NA
+"Sub-Saharan Africa",1998,"lmic",79,NA
+"Sub-Saharan Africa",1998,"umic",90.8,NA
+"Sub-Saharan Africa",1997,"dday",58.7,NA
+"Sub-Saharan Africa",1997,"lmic",78.7,NA
+"Sub-Saharan Africa",1997,"umic",90.6,NA
+"Sub-Saharan Africa",1996,"dday",59.2,NA
+"Sub-Saharan Africa",1996,"lmic",78.8,NA
+"Sub-Saharan Africa",1996,"umic",90.7,NA
+"Sub-Saharan Africa",1995,"dday",60.5,NA
+"Sub-Saharan Africa",1995,"lmic",79.4,NA
+"Sub-Saharan Africa",1995,"umic",91.1,NA
+"Sub-Saharan Africa",1994,"dday",60.8,NA
+"Sub-Saharan Africa",1994,"lmic",79.7,NA
+"Sub-Saharan Africa",1994,"umic",91.3,NA
+"Sub-Saharan Africa",1993,"dday",60.1,NA
+"Sub-Saharan Africa",1993,"lmic",79.2,NA
+"Sub-Saharan Africa",1993,"umic",91.1,NA
+"Sub-Saharan Africa",1992,"dday",58.9,NA
+"Sub-Saharan Africa",1992,"lmic",78.1,NA
+"Sub-Saharan Africa",1992,"umic",90.4,NA
+"Sub-Saharan Africa",1991,"dday",56.9,NA
+"Sub-Saharan Africa",1991,"lmic",76.8,NA
+"Sub-Saharan Africa",1991,"umic",89.6,NA
+"Sub-Saharan Africa",1990,"dday",55.1,NA
+"Sub-Saharan Africa",1990,"lmic",75.7,NA
+"Sub-Saharan Africa",1990,"umic",89.1,NA
+"World",2019,"dday",NA,NA
+"World",2019,"lmic",NA,NA
+"World",2019,"umic",NA,NA
+"World",2018,"dday",NA,NA
+"World",2018,"lmic",NA,NA
+"World",2018,"umic",NA,NA
+"World",2017,"dday",9.3,NA
+"World",2017,"lmic",24.3,NA
+"World",2017,"umic",43.5,NA
+"World",2016,"dday",9.7,NA
+"World",2016,"lmic",25.4,NA
+"World",2016,"umic",44.8,NA
+"World",2015,"dday",10.1,NA
+"World",2015,"lmic",26.5,NA
+"World",2015,"umic",46,NA
+"World",2014,"dday",10.7,NA
+"World",2014,"lmic",27.7,NA
+"World",2014,"umic",47.3,NA
+"World",2013,"dday",11.4,NA
+"World",2013,"lmic",29,NA
+"World",2013,"umic",48.6,NA
+"World",2012,"dday",12.9,NA
+"World",2012,"lmic",31.4,NA
+"World",2012,"umic",50.7,NA
+"World",2011,"dday",13.9,NA
+"World",2011,"lmic",32.9,NA
+"World",2011,"umic",52.1,NA
+"World",2010,"dday",16,NA
+"World",2010,"lmic",35.3,NA
+"World",2010,"umic",53.8,NA
+"World",2009,"dday",17.6,NA
+"World",2009,"lmic",37.4,NA
+"World",2009,"umic",55.6,NA
+"World",2008,"dday",18.4,NA
+"World",2008,"lmic",38.5,NA
+"World",2008,"umic",56.5,NA
+"World",2007,"dday",19.1,NA
+"World",2007,"lmic",39.5,NA
+"World",2007,"umic",57.6,NA
+"World",2006,"dday",20.3,NA
+"World",2006,"lmic",41.2,NA
+"World",2006,"umic",59.2,NA
+"World",2005,"dday",21,NA
+"World",2005,"lmic",42.3,NA
+"World",2005,"umic",60.4,NA
+"World",2004,"dday",22.9,NA
+"World",2004,"lmic",44.5,NA
+"World",2004,"umic",62.1,NA
+"World",2003,"dday",24.7,NA
+"World",2003,"lmic",46.3,NA
+"World",2003,"umic",63.5,NA
+"World",2002,"dday",25.7,NA
+"World",2002,"lmic",47.2,NA
+"World",2002,"umic",64.1,NA
+"World",2001,"dday",26.9,NA
+"World",2001,"lmic",48.6,NA
+"World",2001,"umic",65.2,NA
+"World",2000,"dday",27.8,NA
+"World",2000,"lmic",49.6,NA
+"World",2000,"umic",65.9,NA
+"World",1999,"dday",28.8,NA
+"World",1999,"lmic",50.8,NA
+"World",1999,"umic",67,NA
+"World",1998,"dday",29.9,NA
+"World",1998,"lmic",51.2,NA
+"World",1998,"umic",66.8,NA
+"World",1997,"dday",29.6,NA
+"World",1997,"lmic",51.4,NA
+"World",1997,"umic",66.9,NA
+"World",1996,"dday",29.7,NA
+"World",1996,"lmic",52,NA
+"World",1996,"umic",67.4,NA
+"World",1995,"dday",31.3,NA
+"World",1995,"lmic",52.9,NA
+"World",1995,"umic",67.5,NA
+"World",1994,"dday",33.2,NA
+"World",1994,"lmic",54.1,NA
+"World",1994,"umic",68.3,NA
+"World",1993,"dday",34.3,NA
+"World",1993,"lmic",54.8,NA
+"World",1993,"umic",68.2,NA
+"World",1992,"dday",35.1,NA
+"World",1992,"lmic",55.1,NA
+"World",1992,"umic",67.8,NA
+"World",1991,"dday",36,NA
+"World",1991,"lmic",55.5,NA
+"World",1991,"umic",67.4,NA
+"World",1990,"dday",36.2,NA
+"World",1990,"lmic",55.4,NA
+"World",1990,"umic",67,NA

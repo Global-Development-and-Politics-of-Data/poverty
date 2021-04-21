@@ -1,0 +1,361 @@
+"country","year","pov_line","headcount","country_code"
+"High income",2019,"dday",0.6,NA
+"High income",2019,"lmic",0.8,NA
+"High income",2019,"umic",1.5,NA
+"High income",2018,"dday",0.6,NA
+"High income",2018,"lmic",0.9,NA
+"High income",2018,"umic",1.6,NA
+"High income",2017,"dday",0.7,NA
+"High income",2017,"lmic",1,NA
+"High income",2017,"umic",1.6,NA
+"High income",2016,"dday",0.6,NA
+"High income",2016,"lmic",0.9,NA
+"High income",2016,"umic",1.7,NA
+"High income",2015,"dday",0.8,NA
+"High income",2015,"lmic",1.1,NA
+"High income",2015,"umic",2,NA
+"High income",2014,"dday",0.8,NA
+"High income",2014,"lmic",1.2,NA
+"High income",2014,"umic",2.1,NA
+"High income",2013,"dday",0.6,NA
+"High income",2013,"lmic",0.9,NA
+"High income",2013,"umic",2,NA
+"High income",2012,"dday",0.5,NA
+"High income",2012,"lmic",0.9,NA
+"High income",2012,"umic",2,NA
+"High income",2011,"dday",0.5,NA
+"High income",2011,"lmic",0.9,NA
+"High income",2011,"umic",2,NA
+"High income",2010,"dday",0.5,NA
+"High income",2010,"lmic",0.8,NA
+"High income",2010,"umic",2,NA
+"High income",2009,"dday",0.5,NA
+"High income",2009,"lmic",0.7,NA
+"High income",2009,"umic",1.9,NA
+"High income",2008,"dday",0.5,NA
+"High income",2008,"lmic",0.9,NA
+"High income",2008,"umic",2,NA
+"High income",2007,"dday",0.5,NA
+"High income",2007,"lmic",0.9,NA
+"High income",2007,"umic",2.3,NA
+"High income",2006,"dday",0.6,NA
+"High income",2006,"lmic",1,NA
+"High income",2006,"umic",2.6,NA
+"High income",2005,"dday",0.6,NA
+"High income",2005,"lmic",1.1,NA
+"High income",2005,"umic",2.9,NA
+"High income",2004,"dday",0.6,NA
+"High income",2004,"lmic",1.2,NA
+"High income",2004,"umic",3,NA
+"High income",2003,"dday",0.7,NA
+"High income",2003,"lmic",1.3,NA
+"High income",2003,"umic",3.3,NA
+"High income",2002,"dday",0.6,NA
+"High income",2002,"lmic",1.3,NA
+"High income",2002,"umic",3.5,NA
+"High income",2001,"dday",0.6,NA
+"High income",2001,"lmic",1.4,NA
+"High income",2001,"umic",3.6,NA
+"High income",2000,"dday",0.7,NA
+"High income",2000,"lmic",1.5,NA
+"High income",2000,"umic",3.7,NA
+"High income",1999,"dday",0.7,NA
+"High income",1999,"lmic",1.4,NA
+"High income",1999,"umic",3.8,NA
+"High income",1998,"dday",0.6,NA
+"High income",1998,"lmic",1.3,NA
+"High income",1998,"umic",3.3,NA
+"High income",1997,"dday",0.7,NA
+"High income",1997,"lmic",1.3,NA
+"High income",1997,"umic",3.7,NA
+"High income",1996,"dday",0.7,NA
+"High income",1996,"lmic",1.9,NA
+"High income",1996,"umic",5.1,NA
+"High income",1995,"dday",0.7,NA
+"High income",1995,"lmic",1.5,NA
+"High income",1995,"umic",3.8,NA
+"High income",1994,"dday",0.8,NA
+"High income",1994,"lmic",2.4,NA
+"High income",1994,"umic",5.8,NA
+"High income",1993,"dday",0.7,NA
+"High income",1993,"lmic",1.8,NA
+"High income",1993,"umic",4.6,NA
+"High income",1992,"dday",0.6,NA
+"High income",1992,"lmic",1.2,NA
+"High income",1992,"umic",3.1,NA
+"High income",1991,"dday",0.6,NA
+"High income",1991,"lmic",1.1,NA
+"High income",1991,"umic",2.8,NA
+"High income",1990,"dday",0.6,NA
+"High income",1990,"lmic",1.2,NA
+"High income",1990,"umic",2.8,NA
+"Low income",2019,"dday",NA,NA
+"Low income",2019,"lmic",NA,NA
+"Low income",2019,"umic",NA,NA
+"Low income",2018,"dday",NA,NA
+"Low income",2018,"lmic",NA,NA
+"Low income",2018,"umic",NA,NA
+"Low income",2017,"dday",45.6,NA
+"Low income",2017,"lmic",71.9,NA
+"Low income",2017,"umic",89.9,NA
+"Low income",2016,"dday",45.9,NA
+"Low income",2016,"lmic",72.5,NA
+"Low income",2016,"umic",90,NA
+"Low income",2015,"dday",45.8,NA
+"Low income",2015,"lmic",72.6,NA
+"Low income",2015,"umic",90,NA
+"Low income",2014,"dday",44.7,NA
+"Low income",2014,"lmic",71.6,NA
+"Low income",2014,"umic",89.5,NA
+"Low income",2013,"dday",45.2,NA
+"Low income",2013,"lmic",71.5,NA
+"Low income",2013,"umic",89.1,NA
+"Low income",2012,"dday",46,NA
+"Low income",2012,"lmic",71.7,NA
+"Low income",2012,"umic",88.9,NA
+"Low income",2011,"dday",47.5,NA
+"Low income",2011,"lmic",72.5,NA
+"Low income",2011,"umic",88.7,NA
+"Low income",2010,"dday",48.5,NA
+"Low income",2010,"lmic",72.5,NA
+"Low income",2010,"umic",88.3,NA
+"Low income",2009,"dday",49.9,NA
+"Low income",2009,"lmic",73.2,NA
+"Low income",2009,"umic",88.5,NA
+"Low income",2008,"dday",49.8,NA
+"Low income",2008,"lmic",73.3,NA
+"Low income",2008,"umic",88.7,NA
+"Low income",2007,"dday",51.5,NA
+"Low income",2007,"lmic",74.5,NA
+"Low income",2007,"umic",89.4,NA
+"Low income",2006,"dday",52.9,NA
+"Low income",2006,"lmic",75.5,NA
+"Low income",2006,"umic",90.1,NA
+"Low income",2005,"dday",53.9,NA
+"Low income",2005,"lmic",76.3,NA
+"Low income",2005,"umic",90.6,NA
+"Low income",2004,"dday",55.8,NA
+"Low income",2004,"lmic",77.8,NA
+"Low income",2004,"umic",91.1,NA
+"Low income",2003,"dday",59.5,NA
+"Low income",2003,"lmic",79.8,NA
+"Low income",2003,"umic",91.6,NA
+"Low income",2002,"dday",59,NA
+"Low income",2002,"lmic",79.7,NA
+"Low income",2002,"umic",91.6,NA
+"Low income",2001,"dday",59.1,NA
+"Low income",2001,"lmic",79.8,NA
+"Low income",2001,"umic",91.7,NA
+"Low income",2000,"dday",60.8,NA
+"Low income",2000,"lmic",80.8,NA
+"Low income",2000,"umic",92,NA
+"Low income",1999,"dday",61.9,NA
+"Low income",1999,"lmic",81.3,NA
+"Low income",1999,"umic",92.3,NA
+"Low income",1998,"dday",62.5,NA
+"Low income",1998,"lmic",81.1,NA
+"Low income",1998,"umic",92,NA
+"Low income",1997,"dday",62.6,NA
+"Low income",1997,"lmic",81.1,NA
+"Low income",1997,"umic",92.3,NA
+"Low income",1996,"dday",64,NA
+"Low income",1996,"lmic",81.6,NA
+"Low income",1996,"umic",92.3,NA
+"Low income",1995,"dday",65.3,NA
+"Low income",1995,"lmic",82.2,NA
+"Low income",1995,"umic",92.6,NA
+"Low income",1994,"dday",NA,NA
+"Low income",1994,"lmic",NA,NA
+"Low income",1994,"umic",NA,NA
+"Low income",1993,"dday",NA,NA
+"Low income",1993,"lmic",NA,NA
+"Low income",1993,"umic",NA,NA
+"Low income",1992,"dday",NA,NA
+"Low income",1992,"lmic",NA,NA
+"Low income",1992,"umic",NA,NA
+"Low income",1991,"dday",NA,NA
+"Low income",1991,"lmic",NA,NA
+"Low income",1991,"umic",NA,NA
+"Low income",1990,"dday",NA,NA
+"Low income",1990,"lmic",NA,NA
+"Low income",1990,"umic",NA,NA
+"Lower middle income",2019,"dday",NA,NA
+"Lower middle income",2019,"lmic",NA,NA
+"Lower middle income",2019,"umic",NA,NA
+"Lower middle income",2018,"dday",NA,NA
+"Lower middle income",2018,"lmic",NA,NA
+"Lower middle income",2018,"umic",NA,NA
+"Lower middle income",2017,"dday",NA,NA
+"Lower middle income",2017,"lmic",NA,NA
+"Lower middle income",2017,"umic",NA,NA
+"Lower middle income",2016,"dday",NA,NA
+"Lower middle income",2016,"lmic",NA,NA
+"Lower middle income",2016,"umic",NA,NA
+"Lower middle income",2015,"dday",NA,NA
+"Lower middle income",2015,"lmic",NA,NA
+"Lower middle income",2015,"umic",NA,NA
+"Lower middle income",2014,"dday",16.9,NA
+"Lower middle income",2014,"lmic",47.8,NA
+"Lower middle income",2014,"umic",76.3,NA
+"Lower middle income",2013,"dday",18.5,NA
+"Lower middle income",2013,"lmic",50,NA
+"Lower middle income",2013,"umic",77.7,NA
+"Lower middle income",2012,"dday",19.9,NA
+"Lower middle income",2012,"lmic",51.9,NA
+"Lower middle income",2012,"umic",78.7,NA
+"Lower middle income",2011,"dday",21.5,NA
+"Lower middle income",2011,"lmic",54,NA
+"Lower middle income",2011,"umic",79.9,NA
+"Lower middle income",2010,"dday",25.2,NA
+"Lower middle income",2010,"lmic",57.7,NA
+"Lower middle income",2010,"umic",81.7,NA
+"Lower middle income",2009,"dday",28.1,NA
+"Lower middle income",2009,"lmic",60.8,NA
+"Lower middle income",2009,"umic",83.6,NA
+"Lower middle income",2008,"dday",29.1,NA
+"Lower middle income",2008,"lmic",62.1,NA
+"Lower middle income",2008,"umic",84.2,NA
+"Lower middle income",2007,"dday",30.2,NA
+"Lower middle income",2007,"lmic",63.2,NA
+"Lower middle income",2007,"umic",84.8,NA
+"Lower middle income",2006,"dday",31.9,NA
+"Lower middle income",2006,"lmic",64.7,NA
+"Lower middle income",2006,"umic",85.5,NA
+"Lower middle income",2005,"dday",33.2,NA
+"Lower middle income",2005,"lmic",65.8,NA
+"Lower middle income",2005,"umic",86.1,NA
+"Lower middle income",2004,"dday",35.1,NA
+"Lower middle income",2004,"lmic",67.4,NA
+"Lower middle income",2004,"umic",87,NA
+"Lower middle income",2003,"dday",36.7,NA
+"Lower middle income",2003,"lmic",68.7,NA
+"Lower middle income",2003,"umic",87.7,NA
+"Lower middle income",2002,"dday",37.7,NA
+"Lower middle income",2002,"lmic",69.6,NA
+"Lower middle income",2002,"umic",88.2,NA
+"Lower middle income",2001,"dday",NA,NA
+"Lower middle income",2001,"lmic",NA,NA
+"Lower middle income",2001,"umic",NA,NA
+"Lower middle income",2000,"dday",NA,NA
+"Lower middle income",2000,"lmic",NA,NA
+"Lower middle income",2000,"umic",NA,NA
+"Lower middle income",1999,"dday",NA,NA
+"Lower middle income",1999,"lmic",NA,NA
+"Lower middle income",1999,"umic",NA,NA
+"Lower middle income",1998,"dday",NA,NA
+"Lower middle income",1998,"lmic",NA,NA
+"Lower middle income",1998,"umic",NA,NA
+"Lower middle income",1997,"dday",NA,NA
+"Lower middle income",1997,"lmic",NA,NA
+"Lower middle income",1997,"umic",NA,NA
+"Lower middle income",1996,"dday",39.9,NA
+"Lower middle income",1996,"lmic",71.4,NA
+"Lower middle income",1996,"umic",89.3,NA
+"Lower middle income",1995,"dday",41.5,NA
+"Lower middle income",1995,"lmic",72.6,NA
+"Lower middle income",1995,"umic",89.6,NA
+"Lower middle income",1994,"dday",42.6,NA
+"Lower middle income",1994,"lmic",73.1,NA
+"Lower middle income",1994,"umic",89.9,NA
+"Lower middle income",1993,"dday",43.3,NA
+"Lower middle income",1993,"lmic",73.3,NA
+"Lower middle income",1993,"umic",89.9,NA
+"Lower middle income",1992,"dday",43.5,NA
+"Lower middle income",1992,"lmic",73.3,NA
+"Lower middle income",1992,"umic",89.6,NA
+"Lower middle income",1991,"dday",44.9,NA
+"Lower middle income",1991,"lmic",73.8,NA
+"Lower middle income",1991,"umic",89.4,NA
+"Lower middle income",1990,"dday",44.7,NA
+"Lower middle income",1990,"lmic",73.6,NA
+"Lower middle income",1990,"umic",89.1,NA
+"Upper middle income",2019,"dday",1.5,NA
+"Upper middle income",2019,"lmic",5.9,NA
+"Upper middle income",2019,"umic",19.7,NA
+"Upper middle income",2018,"dday",1.6,NA
+"Upper middle income",2018,"lmic",6.3,NA
+"Upper middle income",2018,"umic",20.8,NA
+"Upper middle income",2017,"dday",1.7,NA
+"Upper middle income",2017,"lmic",7.1,NA
+"Upper middle income",2017,"umic",22.8,NA
+"Upper middle income",2016,"dday",1.9,NA
+"Upper middle income",2016,"lmic",8.4,NA
+"Upper middle income",2016,"umic",25.4,NA
+"Upper middle income",2015,"dday",2,NA
+"Upper middle income",2015,"lmic",9.4,NA
+"Upper middle income",2015,"umic",27.6,NA
+"Upper middle income",2014,"dday",2.4,NA
+"Upper middle income",2014,"lmic",11.1,NA
+"Upper middle income",2014,"umic",30.2,NA
+"Upper middle income",2013,"dday",2.8,NA
+"Upper middle income",2013,"lmic",12.8,NA
+"Upper middle income",2013,"umic",32.8,NA
+"Upper middle income",2012,"dday",5.4,NA
+"Upper middle income",2012,"lmic",17.3,NA
+"Upper middle income",2012,"umic",37.5,NA
+"Upper middle income",2011,"dday",6.3,NA
+"Upper middle income",2011,"lmic",19.3,NA
+"Upper middle income",2011,"umic",40.5,NA
+"Upper middle income",2010,"dday",8.3,NA
+"Upper middle income",2010,"lmic",22.5,NA
+"Upper middle income",2010,"umic",43.7,NA
+"Upper middle income",2009,"dday",9.7,NA
+"Upper middle income",2009,"lmic",25,NA
+"Upper middle income",2009,"umic",46.9,NA
+"Upper middle income",2008,"dday",10.9,NA
+"Upper middle income",2008,"lmic",26.9,NA
+"Upper middle income",2008,"umic",48.8,NA
+"Upper middle income",2007,"dday",11.6,NA
+"Upper middle income",2007,"lmic",28.5,NA
+"Upper middle income",2007,"umic",51.1,NA
+"Upper middle income",2006,"dday",13,NA
+"Upper middle income",2006,"lmic",31.5,NA
+"Upper middle income",2006,"umic",54.6,NA
+"Upper middle income",2005,"dday",13.6,NA
+"Upper middle income",2005,"lmic",33.4,NA
+"Upper middle income",2005,"umic",57.3,NA
+"Upper middle income",2004,"dday",16.5,NA
+"Upper middle income",2004,"lmic",37.4,NA
+"Upper middle income",2004,"umic",60.9,NA
+"Upper middle income",2003,"dday",19.2,NA
+"Upper middle income",2003,"lmic",40.8,NA
+"Upper middle income",2003,"umic",63.8,NA
+"Upper middle income",2002,"dday",21.1,NA
+"Upper middle income",2002,"lmic",42.7,NA
+"Upper middle income",2002,"umic",65.3,NA
+"Upper middle income",2001,"dday",23.9,NA
+"Upper middle income",2001,"lmic",46.2,NA
+"Upper middle income",2001,"umic",68,NA
+"Upper middle income",2000,"dday",25.4,NA
+"Upper middle income",2000,"lmic",48.3,NA
+"Upper middle income",2000,"umic",69.9,NA
+"Upper middle income",1999,"dday",28,NA
+"Upper middle income",1999,"lmic",51.2,NA
+"Upper middle income",1999,"umic",72.4,NA
+"Upper middle income",1998,"dday",30.4,NA
+"Upper middle income",1998,"lmic",52.7,NA
+"Upper middle income",1998,"umic",72.6,NA
+"Upper middle income",1997,"dday",29.5,NA
+"Upper middle income",1997,"lmic",53.1,NA
+"Upper middle income",1997,"umic",73,NA
+"Upper middle income",1996,"dday",29.7,NA
+"Upper middle income",1996,"lmic",54.1,NA
+"Upper middle income",1996,"umic",73.7,NA
+"Upper middle income",1995,"dday",32.3,NA
+"Upper middle income",1995,"lmic",55.9,NA
+"Upper middle income",1995,"umic",74.5,NA
+"Upper middle income",1994,"dday",35.8,NA
+"Upper middle income",1994,"lmic",58.1,NA
+"Upper middle income",1994,"umic",75.6,NA
+"Upper middle income",1993,"dday",38.3,NA
+"Upper middle income",1993,"lmic",60.3,NA
+"Upper middle income",1993,"umic",76.4,NA
+"Upper middle income",1992,"dday",40.3,NA
+"Upper middle income",1992,"lmic",61.7,NA
+"Upper middle income",1992,"umic",76.6,NA
+"Upper middle income",1991,"dday",42,NA
+"Upper middle income",1991,"lmic",62.7,NA
+"Upper middle income",1991,"umic",76.4,NA
+"Upper middle income",1990,"dday",43,NA
+"Upper middle income",1990,"lmic",63,NA
+"Upper middle income",1990,"umic",76.2,NA
