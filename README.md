@@ -15,10 +15,15 @@ There are a series of raw and tidied datasets in this repository. Raw datasets h
 Exercise #1 
 
 You will be using the countries_pov_hc raw dataset found in the For Students/Data.raw folder. The variables names are fairly straightforward
+
 Var 1 = country: This will be the country names in each of the observations. You will notice that the countries are named using the World Bank's naming conventions. Be aware of   this as you pick out countries for visualization and analysis 
+
 Var 2 = year: Stands for the year for each observation 
+
 Var 3 = pov_line: This is a categorical variable for the poverty headcount line. There are three categories of poverty lines. The first is dday which stands for dollar a day and  is the World Banks International Poverty LIne (Set at $1.90/day). The second is lmic which stands for the poverty line appropriate for lower middle income countries. This is set   at $3.20/day. The third is umic which is the poverty line appropriate for upper middle income countries. This is set at %5.50/day. 
+
 Var 4 = headcount: This is a continuous variable that gives you the percentage of the population that lives below a given poverty line 
+
 Var 5 = country_code: This is the ISO3 code which is a way to abreviate country names. This is a standardized way to abbreviate countries and is another way to identify           countries in the data set and can also be used as an identify key for merging data. 
 
 This dataset has several NAs in the headcount column. Take a moment to consider the significance of these NAs. Notice how Afghanistan does not have a single value for their poverty headcount in any of the observations. We could remove these NAs altogether which would make visualization easier (for example making smooth trendlines). However, we chose to maintain the NAs so students can not only identify the data available, but notice what is unavailable. 
