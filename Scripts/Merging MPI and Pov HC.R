@@ -69,11 +69,18 @@ ggplot(mpi_ipl_only, aes(headcount, mpi_headcount, color = continent))+
 #create scatterplot with correlation line of mpi_headcount and headcount 
 
 library("ggpubr")
-ggscatter(mpi_ipl_only, x = "mpi_headcount", y = "headcount", color= "continent", 
+ggscatter(mpi_ipl_only, x = "mpi_headcount", y = "headcount", 
           add = "reg.line", conf.int = TRUE, 
           cor.coef = TRUE, cor.method = "pearson",
-          ylab = "Population living Below IPL (%)", xlab = "Population Living in Multidimensional Poverty (%)")+
-  ggtitle("Correlation between MPI and Consumption Poverty 2010-2018" )
+          ylab = "Population Living Below IPL (%)", xlab = "Population Living in Multidimensional Poverty (%)")+
+  ggtitle("Correlation between MPI and Consumption Poverty 2010-2018" )+
+  labs(caption = "Source: World Bank, OPHI Database")
+
+ggsave("mpi_povhc_cor.pdf")
+ggsave("mpi_povhc_cor.png")
+
+write.csv(mpi_povhc_merged,"C:\\Users\\thoma\\OneDrive\\Desktop\\poverty_viz\\Poverty\\mpi_povhc_raw.csv", row.names = FALSE)
+
 
 
 
