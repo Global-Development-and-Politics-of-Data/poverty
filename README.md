@@ -28,7 +28,7 @@ You will be using the countries_pov_hc raw dataset found in the For Students/Dat
 
 *Exercise #2* 
 
-The Dataset for excercise two can be found in the *For Students* folder. You can also find the dataset at the [Oxford Poverty and Human Development Initiative] (https://ophi.org.uk/). We also encourage interested parties to review the different tables available on the Multidimensional Poverty Index and the methodological notes that can be found [here](https://ophi.org.uk/publications/mpi-methodological-notes/) to better understand where this data comes from and how you can use it to answer questions about poverty in the developing world. 
+The Dataset for excercise two can be found in the *For Students* folder. You can also find the dataset at the [Oxford Poverty and Human Development Initiative](https://ophi.org.uk/). We also encourage interested parties to review the different tables available on the Multidimensional Poverty Index and the methodological notes that can be found [here](https://ophi.org.uk/publications/mpi-methodological-notes/) to better understand where this data comes from and how you can use it to answer questions about poverty in the developing world. 
 
   
   
