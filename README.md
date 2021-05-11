@@ -28,7 +28,7 @@ You will be using the countries_pov_hc raw dataset found in the For Students/Dat
 
 *Exercise #2* 
 
-We do not provide a dataset for exercise #2, but we do have a copy of the preferred MPI dataset in our data.raw folder that can be accessed if necessary. The dataset provided in exercise 1 should serve as an example for an ideal dataset that we can use to create basic bar plots and trendline graphs that compare different values. Your task in exercise 2 is to find the data table online and provide some basic tidying techniques 
+The Dataset for excercise two can be found in the *For Students* folder. You can also find the dataset at the [Oxford Poverty and Human Development Initiative] (https://ophi.org.uk/). We also encourage interested parties to review the different tables available on the Multidimensional Poverty Index and the methodological notes that can be found [here](https://ophi.org.uk/publications/mpi-methodological-notes/) to better understand where this data comes from and how you can use it to answer questions about poverty in the developing world. 
 
   
   
